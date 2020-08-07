@@ -1,5 +1,3 @@
-<b>111903138</b>
+<b>This is a hello world C program.</b>
 
-<b>List of Experiments</b>
 
-Experiment1:Hello World
